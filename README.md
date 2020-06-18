@@ -8,5 +8,5 @@ The main CAD model assembly is called "rapid-prototype.iam"
 You can open the CAD model with Autodesk Inventor or Fusion.
 The source code runs on Arduino IDE. 
 
-For any further questions please contact enquiry@nkhumise.com with "open-source-lobola" as subject. 
+For any further questions please contact inquiry@nkhumise.com with "open-source-lobola" as subject. 
 
